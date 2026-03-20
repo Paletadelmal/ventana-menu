@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ventana menu", "ventana menu\ventana menu.csproj", "{29F02DA2-E68E-43E2-ADCB-94D970015564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29F02DA2-E68E-43E2-ADCB-94D970015564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F02DA2-E68E-43E2-ADCB-94D970015564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F02DA2-E68E-43E2-ADCB-94D970015564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F02DA2-E68E-43E2-ADCB-94D970015564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE4E8ABA-F776-460E-9959-6F428134B5D0}
+	EndGlobalSection
+EndGlobal
