@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace ventana_menu
 {
-    public partial class FormMenu : Form
+    public partial class Formadvertencia : Form
     {
-        public FormMenu()
+        public Formadvertencia()
         {
             InitializeComponent();
-        }
-
-        private void label6_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace ventana_menu
 {
-    public partial class FormVentas : Form
+    public partial class Formventas : Form
     {
-        public FormVentas()
+        public Formventas()
         {
             InitializeComponent();
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panel7_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

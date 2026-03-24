@@ -10,14 +10,24 @@ using System.Windows.Forms;
 
 namespace ventana_menu
 {
-    public partial class FormMenu : Form
+    public partial class Formnuevopartido : Form
     {
-        public FormMenu()
+        public Formnuevopartido()
         {
             InitializeComponent();
         }
 
-        private void label6_Click(object sender, EventArgs e)
+        private void label10_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Formnuevopartido_Load(object sender, EventArgs e)
         {
 
         }
